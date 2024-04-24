@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@pinata/sdk": "^2.1.0",
+    "bignumber.js": "^9.1.2",
+    "bunyan": "^1.8.15",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "helmet": "^7.1.0",
+    "mongoose": "^8.2.2",
+    "moralis": "^2.24.2",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
